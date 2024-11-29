@@ -63,7 +63,7 @@
     "it-pair": "^1.0.0",
     "p-timeout": "^4.0.0",
     "streaming-iterables": "^5.0.2",
-    "timeout-abort-controller": "^2.0.0",
+    "timeout-abort-controller": "^3.0.0",
     "util": "^0.12.4",
     "varint": "^6.0.0"
   },
